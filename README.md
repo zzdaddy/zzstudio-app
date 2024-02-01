@@ -1,40 +1,19 @@
 <p align="center">
   <a href="https://github.com/codercup/unibest">
-    <img width="160" src="./src/static/logo.svg">
+    <img width="160" src="./src/static/logo.png">
   </a>
 </p>
 
 <h1 align="center">
-  <a href="https://github.com/codercup/unibest" target="_blank">unibest - 最好用的 uniapp 开发模板</a>
+  <a href="https://github.com/codercup/unibest" target="_blank">早早集市 - app - 小程序</a>
 </h1>
 
 <div align="center">
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/codercup/unibest?style=flat&logo=github)](https://github.com/codercup/unibest)
-[![GitHub forks](https://img.shields.io/github/forks/codercup/unibest?style=flat&logo=github)](https://github.com/codercup/unibest)
-[![star](https://gitee.com/codercup/unibest/badge/star.svg?theme=dark)](https://gitee.com/codercup/unibest/stargazers)
-[![fork](https://gitee.com/codercup/unibest/badge/fork.svg?theme=dark)](https://gitee.com/codercup/unibest/members)
-![node version](https://img.shields.io/badge/node-%3E%3D18-green)
-![pnpm version](https://img.shields.io/badge/pnpm-%3E%3D7.30-green)
-![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/codercup/unibest)
-![author](https://img.shields.io/badge/author-菲鸽-blue)
-![GitHub License](https://img.shields.io/github/license/codercup/unibest)
-
 </div>
 
-<div align="center"><b>unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI + VSCode 驱动的跨端快速启动模板，具有代码提示、自动格式化、统一配置、代码片段、多语言支持等功能，内置了许多常用的基本组件和基本功能，开箱即用，让你编写 uniapp 拥有 best 体验。</b></div>
+<div align="center"><b></b></div>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<p align="center">
-  <a href="https://codercup.github.io/unibest/">📱 在线预览(github)</a> 
-  <span style="margin:0 10px;">|</span> 
-  <a href="https://codercup.gitee.io/unibest/">📱 在线预览(gitee)</a> 
-  <span style="margin:0 10px;">|</span> 
-  <a href="#">📖 阅读文档(github)</a>
-  <span style="margin:0 10px;">|</span> 
-  <a href="#">📖 阅读文档(gitee)</a>
-</p>
 
 ## ✨ 特性
 
@@ -65,25 +44,6 @@
 - 🖥 多环境配置分开，想则怎么配置就怎么配置
 
 ## 👍 业务功能
-
-- [x] 页面下拉刷新（全局+局部）
-- [x] 页面上拉加载
-- [x] 导航栏返回 or 去首页
-- [x] 导航栏渐变（微信+h5+App)
-- [x] 自定义导航栏顶部机型适配
-- [x] 微信小程序分享（好友+朋友圈）
-- [x] 微信登录
-- [ ] 非微信登录（h5 和 App)
-- [ ] 微信一键登录（基于手机号）- 需要非个人认证用户
-- [x] 微信小程序获取头像昵称+隐私协议
-- [x] 微信小程序 vconsole 调试
-- [x] 多语言模板
-- [x] 页面悬浮球(floating bubble)
-- [x] 多 tab 列表功能
-- [ ] 瀑布流
-- [ ] 仿`BOSS直聘`个人中心
-- [ ] 仿华为商城个人中心
-- [ ] 仿网易云音乐 APP（独立项目）
 
 ## ⚙️ 环境
 
@@ -118,37 +78,4 @@ TODO ADD
 
 [MIT](https://opensource.org/license/mit/)
 
-Copyright (c) 2024 菲鸽
-
-## 📊 Github Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=codercup/unibest&type=Date)](https://star-history.com/#codercup/unibest&Date)
-
-与其他几个同行库的对比
-
-[![Star History Chart](https://api.star-history.com/svg?repos=codercup/unibest,Ares-Chang/uni-vitesse,uni-helper/vitesse-uni-app&type=Date)](https://star-history.com/#codercup/unibest&Ares-Chang/uni-vitesse&uni-helper/vitesse-uni-app&Date)
-
-## 💓 捐赠鼓励
-
-开源不易，如果 `unibest` 对你有些帮助，可以请作者吃块糖果 ，算是对开源做出的一点点鼓励吧！
-
-<p align='center'>
-<img alt="special sponsor appwrite" src="./screenshots/pay-wx-2.png" width="150" style="margin-left:0px;">
-<img alt="special sponsor appwrite" src="./screenshots/pay-wx.png" width="150" style="margin-left:2px;">
-</p>
-
-## 🤝 微信交流群
-
-扫码进微信群，微信群7天过期，作者会定期维护，争取读者每次打开都是可用的。
-
-<p align='center'>
-<img alt="special sponsor appwrite" src="./screenshots/wx-group.png" width="300" style="margin-left:0px;">
-</p>
-
-## 💖 微信公众号
-
-欢迎关注公众号“菲鸽爱编程”——坚持原创，用心写文，分享知识，共同成长。里面会不定期分享前端、Nodejs、微信小程序、开源库等方面的优秀文章。
-
-<p align='center'>
-<img alt="special sponsor appwrite" src="./screenshots/wx-gzh.png" width="300" style="margin-left:0px;">
-</p>
+Copyright (c) 2024 zzdaddy
